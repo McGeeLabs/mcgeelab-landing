@@ -272,6 +272,32 @@ h2{
   color: rgba(31,227,210,0.80);
 }
 
+/* Social Media Icons */
+.icon.discord{
+  color:#5865F2;
+  border-color:rgba(88,101,242,.45);
+  background:rgba(88,101,242,.12);
+  box-shadow:0 0 0 6px rgba(88,101,242,.08);
+}
+
+.icon.x{
+  color:#ffffff;
+}
+
+.icon.youtube{
+  color:#FF4E45;
+  border-color:rgba(255,78,69,.45);
+  background:rgba(255,78,69,.12);
+  box-shadow:0 0 0 6px rgba(255,78,69,.08);
+}
+
+.icon.facebook{
+  color:#1877F2;
+  border-color:rgba(24,119,242,.45);
+  background:rgba(24,119,242,.12);
+  box-shadow:0 0 0 6px rgba(24,119,242,.08);
+}
+
 /* Link list */
 .links{
   display:flex;
