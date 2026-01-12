@@ -164,6 +164,15 @@ h1{
 .button:hover{ transform: translateY(-1px); border-color: rgba(31,227,210,0.55); }
 .button:active{ transform: translateY(0px); }
 
+.button.sponsor {
+  background: linear-gradient(135deg, #f97316, #ef4444);
+  color: #fff;
+}
+
+.button.sponsor:hover {
+  filter: brightness(1.05);
+}
+
 /* Main container */
 .container{
   max-width: var(--max);
