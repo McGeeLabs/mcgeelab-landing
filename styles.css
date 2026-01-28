@@ -103,8 +103,8 @@ a, .button{
 }
 
 .logo {
-  width: 52px;
-  height: 52px;
+  width: 128px;
+  height: 128px;
   border-radius: 16px;
   object-fit: cover;
   display: block;
